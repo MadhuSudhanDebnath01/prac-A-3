@@ -1,0 +1,12 @@
+.item{
+    background-color: yellow;
+}
+.item1{
+    border: 3px dashed red;
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px;
+    margin-left: 100px;
+    padding: 50px;
+    border-radius: 50%;
+}
